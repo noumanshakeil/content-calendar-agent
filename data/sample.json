@@ -1,0 +1,12 @@
+{
+  "project": "content-calendar-agent",
+  "resource": "posts",
+  "samples": [
+    {
+      "id": "p1",
+      "title": "Launch teaser",
+      "channel": "linkedin",
+      "publish_at": "2026-10-18"
+    }
+  ]
+}
